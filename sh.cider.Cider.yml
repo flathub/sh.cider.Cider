@@ -50,7 +50,7 @@ modules:
     sources:
       - type: file
         dest-filename: cider.deb
-        url: https://1308-429851205-gh.circle-artifacts.com/0/~/Cider/dist/artifacts/cider_1.3.1308_amd64.deb
+        url: https://1308-429851205-gh.circle-artifacts.com/0/%7E/Cider/dist/artifacts/cider_1.3.1308_amd64.deb
         sha256: 342abde96bac9668e7238860ba435171edd72077ed9f4b385a3546c4d8f96995
         x-checker-data:
           type: html
@@ -69,6 +69,6 @@ modules:
             echo Stub sandbox ignoring command: $@
             exit 1
       - type: file
-        path: cider-wrapper   
+        path: cider-wrapper
       - type: file
         path: sh.cider.Cider.metainfo.xml
