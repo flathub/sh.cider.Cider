@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <content_rating type="oars-1.0" />
+  <content_rating type="oars-1.0"/>
   <id>sh.cider.Cider</id>
   
   <name>Cider</name>
@@ -28,6 +28,6 @@
   </screenshots>
 
   <releases>
-    <release version="1.3.1308" date="2022-03-11"></release>
+    <release version="1.3.1308" date="2022-03-11"/>
   </releases>
 </component>
