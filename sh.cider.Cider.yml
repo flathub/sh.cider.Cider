@@ -50,12 +50,12 @@ modules:
     sources:
       - type: file
         dest-filename: cider.deb
-        url: https://1434-429851205-gh.circle-artifacts.com/0/~/Cider/dist/artifacts/cider_1.3.1434_amd64.deb
-        sha256: c666b7f7b85236c3ae0e714e8ce3ebeae36cd69c9d72993ec15a001349a6de1f
-        x-checker-data:
-          type: html
-          url: https://circleci.com/api/v1.1/project/gh/ciderapp/Cider/latest/artifacts?branch=main&filter=successful
-          pattern: (https://.*circle-artifacts.com/.+/cider_([\d\.]+)_amd64.deb)
+        url: https://github.com/ciderapp/Cider/releases/download/develop-build/cider_1.3.1473_amd64.deb
+        sha256: 06ac3b39fb0142852ed44518663f64d68045e1e644eddd6ea90037466b22113c
+        #x-checker-data:
+        #  type: html
+        #  url: https://circleci.com/api/v1.1/project/gh/ciderapp/Cider/latest/artifacts?branch=main&filter=successful
+        #  pattern: (https://.*circle-artifacts.com/.+/cider_([\d\.]+)_amd64.deb)
       - type: script
         dest-filename: cider
         commands:
