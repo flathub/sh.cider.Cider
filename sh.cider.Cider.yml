@@ -52,10 +52,10 @@ modules:
         dest-filename: cider.deb
         url: https://github.com/ciderapp/Cider/releases/download/develop-build/cider_1.3.1473_amd64.deb
         sha256: 06ac3b39fb0142852ed44518663f64d68045e1e644eddd6ea90037466b22113c
-        #x-checker-data:
-        #  type: html
-        #  url: https://circleci.com/api/v1.1/project/gh/ciderapp/Cider/latest/artifacts?branch=main&filter=successful
-        #  pattern: (https://.*circle-artifacts.com/.+/cider_([\d\.]+)_amd64.deb)
+        x-checker-data:
+          type: html
+          url: https://api.github.com/repos/ciderapp/Cider/releases
+          pattern: (https://github.com/ciderapp/Cider/releases/download/develop-build/cider_([\d\.]+)_amd64.deb)
       - type: script
         dest-filename: cider
         commands:
