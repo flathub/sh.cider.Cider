@@ -11,7 +11,7 @@ finish-args:
   - --device=dri
   - --filesystem=xdg-music
   - --filesystem=xdg-run/app/com.discordapp.Discord:create
-  - --own-name=org.mpris.MediaPlayer2.Cider
+  - --own-name=org.mpris.MediaPlayer2.cider
   - --share=ipc
   - --share=network
   - --socket=pulseaudio
