@@ -50,12 +50,12 @@ modules:
     sources:
       - type: file
         dest-filename: cider.deb
-        url: https://github.com/ciderapp/Cider/releases/download/develop-build/cider_1.3.1473_amd64.deb
-        sha256: 06ac3b39fb0142852ed44518663f64d68045e1e644eddd6ea90037466b22113c
+        url: https://github.com/ciderapp/Cider/releases/download/feature%2Felectron18-build/cider_1.3.1482_amd64.deb
+        sha256: b19635c7f0eb3f08b2f3cc7cc41dd2eaa96816f006e7ef6cc44aa8a5f6c3a3c2
         x-checker-data:
           type: html
           url: https://api.github.com/repos/ciderapp/Cider/releases
-          pattern: (https://github.com/ciderapp/Cider/releases/download/develop-build/cider_([\d\.]+)_amd64.deb)
+          pattern: (https://github.com/ciderapp/Cider/releases/download/feature%2Felectron18-build/cider_([\d\.]+)_amd64.deb)
       - type: script
         dest-filename: cider
         commands:
