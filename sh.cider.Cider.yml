@@ -56,7 +56,7 @@ modules:
           type: json
           url: https://api.github.com/repos/ciderapp/cider-releases/releases/latest
           version-query: .tag_name
-          url-query: .assets[] | select(.browser_download_url | match("(amd64.deb)")) | .browser_download_url
+          url-query: .assets[] | select(.name | match("(amd64.deb)")) | .browser_download_url
       - type: script
         dest-filename: cider
         commands:
