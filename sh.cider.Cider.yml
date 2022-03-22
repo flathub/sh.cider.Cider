@@ -55,7 +55,7 @@ modules:
         x-checker-data:
           type: html
           url: https://api.github.com/repos/ciderapp/Cider/releases
-          pattern: (https://github/.com/ciderapp/Cider/releases/download/develop-build/cider_/d/d/d-alpha/d/d/d/d_amd64/.deb)
+          pattern: (https://github.com/ciderapp/Cider/releases/download/develop-build/cider_([\d\.]+)-alpha.([\d]+)_amd64.deb)
       - type: script
         dest-filename: cider
         commands:
