@@ -53,9 +53,10 @@ modules:
         url: https://github.com/ciderapp/cider-releases/releases/download/v1.3.0.1528/cider_1.3.0-alpha.1528_amd64.deb
         sha256: 8378078fd82489adb3825ee4488311014efc2154585186fa15ccf9be6fd6581a
         x-checker-data:
-          type: rotating-url
+          type: json
           url: https://api.github.com/repos/ciderapp/cider-releases/releases/latest
-          pattern: (https://github.com/ciderapp/cider-releases/releases/download/.*/.*.deb)
+          version-query: .tag_name
+          url-query: .assets[] | select(.name==.*.deb) | .browser_download_url
       - type: script
         dest-filename: cider
         commands:
