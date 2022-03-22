@@ -54,7 +54,7 @@ modules:
         sha256: f7972494e538eb3f7be35761f9aedcde0af4e83cc68fa0ff3601450dc8e00418
         x-checker-data:
           type: html
-          url: https://api.github.com/repos/ciderapp/Cider/releases
+          url: https://api.github.com/repos/ciderapp/Cider/releases/tags/develop-build
           pattern: (https://github.com/ciderapp/Cider/releases/download/develop-build/cider_([\d\.]+)-alpha.([\d]+)_amd64.deb)
       - type: script
         dest-filename: cider
