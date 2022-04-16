@@ -1,5 +1,4 @@
 {
     "only-arches": ["x86_64"],
-    "publish-delay-hours": 2,
-    "automerge-flathubbot-prs": true
+    "publish-delay-hours": 2
 }  
