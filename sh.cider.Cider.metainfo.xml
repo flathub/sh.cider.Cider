@@ -16,7 +16,7 @@
   
   <description>
     <p>
-      Project Cider. A new look into listening and enjoying Apple Music in style and performance with Features such as Discord and Last.fm integration, spatial audio support, equalizers, and remote controllable using companion app
+      Project Cider. A new look into listening and enjoying Apple Music in style and performance with Features such as Discord and Last.fm integration, spatial audio support, equalizers, and remote controllable using the companion app
     </p>
   </description>
   
@@ -29,52 +29,6 @@
   </screenshots>
 
   <releases>
-    <release version="v1.4.3.1787" date="2022-04-16"/>
-    <release version="v1.4.3.1784" date="2022-04-14"/>
-    <release version="v1.4.3.1783" date="2022-04-14"/>
-    <release version="v1.4.2.1779" date="2022-04-13"/>
-    <release version="v1.4.2.1775" date="2022-04-12"/>
-    <release version="v1.4.2.1774" date="2022-04-12"/>
-    <release version="v1.4.2.1765" date="2022-04-12"/>
-    <release version="v1.4.2.1759" date="2022-04-11"/>
-    <release version="v1.4.2.1757" date="2022-04-11"/>
-    <release version="v1.4.2.1751" date="2022-04-10"/>
-    <release version="v1.4.2.1749" date="2022-04-10"/>
-    <release version="v1.4.2.1746" date="2022-04-09"/>
-    <release version="v1.4.2.1743" date="2022-04-08"/>
-    <release version="v1.4.2.1724" date="2022-04-08"/>
-    <release version="v1.4.1.1709" date="2022-04-08"/>
-    <release version="v1.4.1.1707" date="2022-04-07"/>
-    <release version="v1.4.1.1699" date="2022-04-06"/>
-    <release version="v1.4.1.1691" date="2022-04-06"/>
-    <release version="v1.4.1.1688" date="2022-04-05"/>
-    <release version="v1.4.1.1680" date="2022-04-05"/>
-    <release version="v1.4.1.1679" date="2022-04-04"/>
-    <release version="v1.4.1.1678" date="2022-04-04"/>
-    <release version="v1.4.1.1676" date="2022-04-03"/>
-    <release version="v1.4.1.1668" date="2022-04-03"/>
-    <release version="v1.4.0.1661" date="2022-04-02"/>
-    <release version="v1.4.0.1651" date="2022-04-02"/>
-    <release version="v1.4.0.1646" date="2022-04-01"/>
-    <release version="v1.4.0.1642" date="2022-04-01"/>
-    <release version="v1.4.0.1640" date="2022-04-01"/>
-    <release version="v1.4.0.1635" date="2022-03-31"/>
-    <release version="v1.4.0.1626" date="2022-03-30"/>
-    <release version="v1.4.0.1623" date="2022-03-30"/>
-    <release version="v1.4.0.1622" date="2022-03-30"/>
-    <release version="v1.4.0.1619" date="2022-03-29"/>
-    <release version="v1.4.0.1615" date="2022-03-29"/>
-    <release version="v1.4.0.1606" date="2022-03-28"/>
-    <release version="v1.4.0.1603" date="2022-03-28"/>
-    <release version="v1.4.0.1597" date="2022-03-28"/>
-    <release version="v1.3.0.1572" date="2022-03-27"/>
-    <release version="v1.3.0.1567" date="2022-03-26"/>
-    <release version="v1.3.0.1562" date="2022-03-26"/>
-    <release version="v1.3.0.1558" date="2022-03-25"/>
-    <release version="v1.3.0.1555" date="2022-03-24"/>
-    <release version="v1.3.0.1548" date="2022-03-24"/>
-    <release version="v1.3.0.1541" date="2022-03-23"/>
-    <release version="v1.3.0.1540" date="2022-03-23"/>
-    <release version="v1.3.0.1531" date="2022-03-22"/>
+    <release version="v1.4.0.1777" date="2022-04-13"/>
   </releases>
 </component>
