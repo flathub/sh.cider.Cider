@@ -48,8 +48,8 @@ modules:
     sources:
       - type: file
         dest-filename: cider.deb
-        url: https://github.com/ciderapp/cider-releases/releases/download/v1.5.412/cider_1.5.412_amd64.deb
-        sha256: 2000188129b52424149792a730e41fce873ff49a2b2374ed3c87a482492ee9ca
+        url: https://github.com/ciderapp/cider-releases/releases/download/v1.5.421/cider_1.5.421_amd64.deb
+        sha256: 8481dc26833fdd1aae398afaf710fe54958e83fa2a3ea5f650cb88652bbaa6fd
         x-checker-data:
           type: json
           url: https://api.github.com/repos/ciderapp/cider-releases/releases/latest
