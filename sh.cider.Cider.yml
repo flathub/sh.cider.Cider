@@ -46,7 +46,7 @@ modules:
       - install -Dm755 cider -t ${FLATPAK_DEST}/bin/
       - install -Dm644 -t /app/share/metainfo ${FLATPAK_ID}.metainfo.xml
     cleanup:
-      - 'share/icons/hicolor/1024x1024'
+      - '/app/share/icons/hicolor/1024x1024'
     sources:
       - type: file
         dest-filename: cider.deb
