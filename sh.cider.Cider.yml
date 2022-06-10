@@ -71,3 +71,5 @@ modules:
         path: cider-wrapper
       - type: file
         path: sh.cider.Cider.metainfo.xml
+  - cleanup:
+    - 'share/icons/hicolor/1024x1024'
