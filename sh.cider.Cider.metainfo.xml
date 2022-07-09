@@ -29,6 +29,7 @@
   </screenshots>
 
   <releases>
+    <release version="v1.5.1-beta.371" date="2022-07-09"/>
     <release version="v1.5.1" date="2022-06-10"/>
   </releases>
 </component>
