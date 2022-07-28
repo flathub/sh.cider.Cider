@@ -29,30 +29,7 @@
   </screenshots>
 
   <releases>
-    <release version="v1.5.1" date="2022-07-27"/>
-      <description>
-        <p>What&#39;s new in 1.5.1</p>
-        <ul>
-          <li>Local File Playback</li>
-          <li>Friend Profiles Support</li>
-          <li>Hero Banners</li>
-          <li>Animated Album Covers in Fullscreen</li>
-          <li>New settings page</li>
-          <li>Copy/Paste songs into playlists</li>
-          <li>Radio stations Support</li>
-          <li>OOBE</li>
-          <li>COCS (Audio Lab)</li>
-          <li>Redesigned search in playlists, now uses search button</li>
-          <li>Redesigned about page, buttons are now colored and new links to dev&#39;s twitter and github</li>
-          <li>Last FM overhaul</li>
-          <li>Lyrics overhaul, faster and fixing translation bugs</li>
-          <li>Ability to change element scale</li>
-          <li>Performant logging is on by default (faster Cider)</li>
-          <li>Fixed a bug that caused Album Genre names to be wrong</li>
-          <li>Cast/Airplay fixes</li>
-          <li>Reduced RAM usuage</li>
-          <li>Mxm patch</li>
-        </ul>
-      </description>
+    <release version="1.5.2" date="2022-07-27"/>
+    <release version="1.5.1" date="2022-07-27"/>
   </releases>
 </component>
