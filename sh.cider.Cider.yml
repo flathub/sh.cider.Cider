@@ -50,8 +50,8 @@ modules:
     sources:
       - type: file
         dest-filename: cider.deb
-        url: https://output.circle-artifacts.com/output/job/1d874d74-6641-4b44-88e7-2683169ab349/artifacts/0/~/Cider/dist/artifacts/cider_1.5.2-beta.24_amd64.deb
-        sha256: a9119ae8f4a797c6b445a05a59023a64e28fb22e3940e64d96cf9506fe1901a8
+        url: https://output.circle-artifacts.com/output/job/860aac34-0b51-4271-8f6b-8c66756c8616/artifacts/0/~/Cider/dist/artifacts/cider_1.5.3_amd64.deb
+        sha256: 868cf828b3b598df16c4df63bf4bff69b072c02ba1a6d488699b2b81f5f14938
         x-checker-data:
           type: html
           url: https://circleci.com/api/v1.1/project/gh/ciderapp/Cider/latest/artifacts?branch=stable&filter=successful
