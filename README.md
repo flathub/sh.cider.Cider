@@ -19,7 +19,6 @@
 ```
 flatpak install sh.cider.Cider
 ```
-Wayland support can be enabled by passing `--ozone-platform=wayland` to `flatpak run sh.cider.Cider`.
 
 #### Links
 * [Wiki](https://github.com/ciderapp/Cider/wiki)
