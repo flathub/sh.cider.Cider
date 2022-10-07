@@ -50,7 +50,7 @@ modules:
       - type: file
         dest-filename: cider.deb
         url: https://github.com/ciderapp/cider-releases/releases/download/v1.5.9-beta.004/cider_1.5.9-beta.4_amd64.deb
-        sha256: d0efa119a0a3e473603b629de549e05bde47f228e19fcdee490188f413e89fb7
+        sha256: 383b707d4ce85dc088cb0ae7ebf8bf0ecf00d7bd43db371dd7c8a20b7de69683
       - type: script
         dest-filename: cider
         commands:
