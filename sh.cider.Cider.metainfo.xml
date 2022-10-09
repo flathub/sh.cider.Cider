@@ -24,11 +24,12 @@
 
   <screenshots>
     <screenshot type="default">
-      <image>https://github.com/ciderapp/cider.sh/blob/main/assets/img/frontpage-scn.png?raw=true</image>
+      <image>https://raw.githubusercontent.com/ciderapp/cider.sh/main/assets/img/frontpage-scn.png</image>
     </screenshot>
   </screenshots>
 
   <releases>
+    <release version="1.5.7" date="2022-09-30"/>
     <release version="1.5.6" date="2022-08-30"/>
     <release version="1.5.2" date="2022-07-27"/>
   </releases>
