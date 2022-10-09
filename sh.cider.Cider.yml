@@ -14,8 +14,9 @@ finish-args:
   - --share=ipc
   - --share=network
   - --socket=pulseaudio
-  - --socket=wayland
-  - --socket=fallback-x11
+  - --socket=x11
+  #- --socket=wayland
+  #- --socket=fallback-x11
   - --system-talk-name=org.freedesktop.UPower
   - --talk-name=com.canonical.AppMenu.Registrar
   - --talk-name=com.canonical.dbusmenu
@@ -49,13 +50,8 @@ modules:
     sources:
       - type: file
         dest-filename: cider.deb
-        url: https://github.com/ciderapp/cider-releases/releases/download/v1.5.7-beta.230/cider_1.5.7-beta.230_amd64.deb
-        sha256: f76111bfdac4e7d0106500d1eea7ecce37d0615aef59aa526fb9f7ec32c5db66
-        x-checker-data:
-          type: json
-          url: https://api.github.com/repos/ciderapp/cider-releases/releases/latest
-          version-query: .tag_name
-          url-query: .assets[] | select(.name | match("(amd64.deb)")) | .browser_download_url
+        url: https://github.com/ciderapp/cider-releases/releases/download/v1.5.9-beta.015/cider_1.5.9-beta.15_amd64.deb
+        sha256: 421da40898e3aa56d84b1abd80c77218d019d8c82fb85fd274bb6b9b9152862b
       - type: script
         dest-filename: cider
         commands:
