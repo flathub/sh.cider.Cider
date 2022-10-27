@@ -29,9 +29,6 @@
   </screenshots>
 
   <releases>
-    <release version="v1.5.9-beta.15" date="2022-10-08"/>
-    <release version="v1.5.9-beta.12" date="2022-10-06"/>
-    <release version="v1.5.9-beta.4" date="2022-10-06"/>
-    <release version="v1.5.7-beta.230" date="2022-09-29"/>
+    <release version="v1.6.0" date="2022-10-27"/>
   </releases>
 </component>
