@@ -15,18 +15,43 @@
   <a target="_blank" href="https://twitter.com/UseCider"><img src="https://img.shields.io/twitter/follow/UseCider?label=Twitter&color=%231DA1F2&logo=twitter&style=flat" alt="Twitter"/></a>
   <a target="_blank" href="https://reddit.com/r/applemusicelectron"><img src="https://custom-icon-badges.herokuapp.com/reddit/subreddit-subscribers/applemusicelectron?label=Reddit&color=FF5700&logo=redditnew" alt="Reddit"/></a>
   <br><br>
-  <a href="https://circleci.com/gh/ciderapp/Cider/tree/main"><img src="https://circleci.com/gh/ciderapp/Cider/tree/main.svg?style=svg" alt="CircleCI Status"/></a>
+  <a href="https://dev.azure.com/cidercollective/Cider/_build?definitionId=14"><img src="https://dev.azure.com/cidercollective/Cider/_apis/build/status%2FCider%201.x?branchName=main" alt="Azure Pipelines Status"/></a>
 </p>
 
-### Installation
-```
-flatpak install sh.cider.Cider
-```
-
 #### Links
-* [Wiki](https://github.com/ciderapp/Cider/wiki)
-* [Request Feature](https://github.com/ciderapp/Cider/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BEnhancement%5D)
+
+* [Documentation](https://docs.cider.sh)
+* [Request Feature](https://github.com/ciderapp/Cider/discussions/new?category=feature-request)
 * [Report Bug](https://github.com/ciderapp/Cider/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D+)
+* [**View The Releases**](https://github.com/ciderapp/cider-releases/releases/latest)
+
+### Install Sources
+[![Get it from Github](https://img.shields.io/badge/Get_It_From_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ciderapp/cider-releases/releases/latest)
+
+[![Get it from Windows Package Manager](https://custom-icon-badges.herokuapp.com/badge/Get_It_via_Winget_-100000?style=for-the-badge&logo=winstall)](https://winstall.app/apps/CiderCollective.Cider)
+[![Get it from Windows Package Manager](https://custom-icon-badges.herokuapp.com/badge/Get_It_via_Winget_(Nightly)_-100000?style=for-the-badge&logo=winstall)](https://winstall.app/apps/CiderCollective.Cider.Nightly)
+
+[![Get it from Chocolatey Package Manager](https://custom-icon-badges.herokuapp.com/badge/Get_It_via_Chocolatey_-100000?style=for-the-badge&logo=chocolatey)](https://community.chocolatey.org/packages/cider)
+
+<!--
+[![Get it from Windows Package Manager](https://custom-icon-badges.herokuapp.com/badge/Get_It_via_Winget_(Nightly)_-100000?style=for-the-badge&logo=winstall)](https://winstall.app/apps/CiderCollective.Cider.Nightly)
+-->
+
+[![Get it from Flathub](https://img.shields.io/badge/Get_It_From_Flathub-100000?style=for-the-badge&logo=flathub)](https://flathub.org/apps/details/sh.cider.Cider)
+
+<!--
+
+[![Get it from Windows Package Manager](https://custom-icon-badges.herokuapp.com/badge/Get_It_via_Winget-100000?style=for-the-badge&logo=winstall)](https://winstall.app/apps/cryptofyre.AppleMusicElectron)
+
+[![Get it from the Snap Store](https://img.shields.io/badge/Get_It_From_The_Snap_Store-100000?style=for-the-badge&logo=snapcraft)](https://snapcraft.io/apple-music-electron)
+-->
+[![Get it from the AUR](https://img.shields.io/badge/Get_It_From_The_AUR-100000?style=for-the-badge&logo=archlinux)](https://aur.archlinux.org/packages/cider)
+
+### Insights Snapshot
+[![CircleCI](https://dl.circleci.com/insights-snapshot/gh/ciderapp/Cider/main/build_and_release/badge.svg?window=30d)](https://app.circleci.com/insights/github/ciderapp/Cider/workflows/build_and_release/overview?branch=main&reporting-window=last-30-days&insights-snapshot=true)
+
+### Credits
+![Contributors](https://contrib.rocks/image?repo=ciderapp/Cider)
 
 ### Disclaimer
 *This project is NOT affiliated with Apple in any way shape or form. The project is open source and free to use (with an Apple Music subscription)
