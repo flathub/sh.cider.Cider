@@ -5,15 +5,18 @@
 
   <name>Cider</name>
   <summary>An exquisitely crafted and customizable Apple Music app</summary>
-  
+
   <metadata_license>CC0-1.0</metadata_license>
-  <project_license>LicenseRef-proprietary=https://cider.sh/legal/conduct</project_license>
+  <project_license
+    >LicenseRef-proprietary=https://cider.sh/legal/conduct</project_license>
   <developer_name>Cider Collective</developer_name>
 
-  <url type="homepage">https://cider.sh/?utm_source=flathub%26utm_medium=link%26utm_campaign=product-page</url>
+  <url
+        type="homepage"
+    >https://cider.sh/?utm_source=flathub%26utm_medium=link%26utm_campaign=product-page</url>
   <url type="bugtracker">https://github.com/ciderapp/Cider-2/issues</url>
   <url type="donation">https://opencollective.com/ciderapp</url>
-  
+
   <description>
     <p>
       Cider. An exquisitely crafted and customizable Apple Music app with features such as Discord and Last.fm/Libre.fm/Maloja/ListenBrainz integration, Atmos Support (Binaural), Crossfade, Automix, Themes, Plugins, and so much more.
@@ -24,20 +27,24 @@
 
   <screenshots>
     <screenshot type="default">
-      <image>https://raw.githubusercontent.com/ciderapp/sh.cider.Cider/refs/heads/master/assets/client-interface.png</image>
+      <image
+            >https://raw.githubusercontent.com/ciderapp/sh.cider.Cider/refs/heads/master/assets/client-interface.png</image>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/ciderapp/sh.cider.Cider/refs/heads/master/assets/client-immersive.png</image>
+      <image
+            >https://raw.githubusercontent.com/ciderapp/sh.cider.Cider/refs/heads/master/assets/client-immersive.png</image>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/ciderapp/sh.cider.Cider/refs/heads/master/assets/client-artists.png</image>
+      <image
+            >https://raw.githubusercontent.com/ciderapp/sh.cider.Cider/refs/heads/master/assets/client-artists.png</image>
     </screenshot>
   </screenshots>
 
   <releases>
-    <release version="v4.0.0" date="2026-11-19">
+    <release version="v4.0.0" date="2026-06-19">
       <description>
-        <p>Initial release of Cider 4 on Flathub, bringing an exquisitely crafted desktop client for Apple Music. This version introduces performance improvements, high-quality audio features, Discord Rich Presence, and a customizable theme and extension ecosystem.</p>
+        <p
+                >Initial release of Cider 4 on Flathub, bringing an exquisitely crafted desktop client for Apple Music. This version introduces performance improvements, high-quality audio features, Discord Rich Presence, and a customizable theme and extension ecosystem.</p>
       </description>
     </release>
   </releases>
