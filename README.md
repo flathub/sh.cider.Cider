@@ -18,7 +18,7 @@ Key features include:
 * **Customization:** A rich theme engine and plugin framework to personalize your player.
 * **Companion App:** Control playback from your mobile device using Cider Remote.
 
-*Note: Cider is a commercial application developed by the Cider Collective. An active Apple Music subscription is required.*
+*Note: Cider is a commercial application developed by Cider Collective. An active Apple Music subscription is required.*
 
 ## Installation
 
