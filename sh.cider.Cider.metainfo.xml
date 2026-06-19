@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <component type="desktop-application">
-  <content_rating type="oars-1.0"/>
+  <content_rating type="oars-1.0" />
   <id>sh.cider.Cider</id>
-  
+
   <name>Cider</name>
   <summary>An exquisitely crafted and customizable Apple Music app</summary>
   
@@ -19,7 +19,7 @@
       Cider. An exquisitely crafted and customizable Apple Music app with features such as Discord and Last.fm/Libre.fm/Maloja/ListenBrainz integration, Atmos Support (Binaural), Crossfade, Automix, Themes, Plugins, and so much more.
     </p>
   </description>
-  
+
   <launchable type="desktop-id">cider.desktop</launchable>
 
   <screenshots>
