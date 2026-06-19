@@ -36,7 +36,9 @@
 
   <releases>
     <release version="v4.0.0" date="2026-11-19">
-      <description>placeholder</description>
+      <description>
+        <p>Initial release of Cider 4 on Flathub, bringing an exquisitely crafted desktop client for Apple Music. This version introduces performance improvements, high-quality audio features, Discord Rich Presence, and a customizable theme and extension ecosystem.</p>
+      </description>
     </release>
   </releases>
 </component>
