@@ -4,19 +4,19 @@
   <id>sh.cider.Cider</id>
   
   <name>Cider</name>
-  <summary>An open source and community oriented Apple Music client</summary>
+  <summary>An exquisitely crafted and customizable Apple Music app</summary>
   
   <metadata_license>CC0-1.0</metadata_license>
-  <project_license>AGPL-1.0-or-later</project_license>
+  <project_license>LicenseRef-proprietary=https://cider.sh/legal/conduct</project_license>
   <developer_name>Cider Collective</developer_name>
 
   <url type="homepage">https://cider.sh/?utm_source=flathub%26utm_medium=link%26utm_campaign=product-page</url>
-  <url type="bugtracker">https://github.com/ciderapp/Cider/issues</url>
-  <url type="donation">https://ko-fi.com/cryptofyre</url>
+  <url type="bugtracker">https://github.com/ciderapp/Cider-2/issues</url>
+  <url type="donation">https://opencollective.com/ciderapp</url>
   
   <description>
     <p>
-      Cider. A new look into listening and enjoying Apple Music in style and performance with Features such as Discord and Last.fm integration, spatial audio support, equalizers, and remote control using the companion app.
+      Cider. An exquisitely crafted and customizable Apple Music app with features such as Discord and Last.fm/Libre.fm/Maloja/ListenBrainz integration, Atmos Support (Binaural), Crossfade, Automix, Themes, Plugins, and so much more.
     </p>
   </description>
   
@@ -24,16 +24,19 @@
 
   <screenshots>
     <screenshot type="default">
-      <image>https://raw.githubusercontent.com/flathub/sh.cider.Cider/refs/heads/master/orig.png</image>
+      <image>https://raw.githubusercontent.com/ciderapp/sh.cider.Cider/refs/heads/master/assets/client-interface.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/ciderapp/sh.cider.Cider/refs/heads/master/assets/client-immersive.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/ciderapp/sh.cider.Cider/refs/heads/master/assets/client-artists.png</image>
     </screenshot>
   </screenshots>
 
   <releases>
-    <release version="v1.6.3" date="2024-05-18">
-      <description></description>
+    <release version="v4.0.0" date="2026-11-19">
+      <description>placeholder</description>
     </release>
-    <release version="v1.6.2" date="2023-07-02"/>
-    <release version="v1.6.1" date="2023-05-15"/>
-    <release version="v1.5.9" date="2022-10-27"/>
   </releases>
 </component>
