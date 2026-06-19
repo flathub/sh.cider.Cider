@@ -15,7 +15,7 @@ Cider is a proprietary desktop client for Apple Music. Designed as a modern, hig
 Key features include:
 * **Audio Enhancements:** Support for Atmos (Binaural), customizable crossfade, and automix capabilities.
 * **Integrations:** Native connection with Discord Rich Presence, Last.fm, Libre.fm, Maloja, and ListenBrainz.
-* **Customization:** A rich theme engine and extension framework (Taps) to personalize your player.
+* **Customization:** A rich theme engine and plugin framework to personalize your player.
 * **Companion App:** Control playback from your mobile device using Cider Remote.
 
 *Note: Cider is a commercial application developed by the Cider Collective. An active Apple Music subscription is required.*
@@ -45,7 +45,7 @@ All downloads, activation licenses, and custom options are managed through the o
 * **Official Website:** [cider.sh](https://cider.sh)
 * **Downloads & Licensing:** [taproom.cider.sh/downloads](https://taproom.cider.sh/downloads)
 * **Purchase a License:** [taproom.cider.sh/purchase](https://taproom.cider.sh/purchase)
-* **Theme & Plugin Gallery:** [taproom.cider.sh/taps](https://taproom.cider.sh/taps)
+* **Theme & Plugin Gallery:** [marketplace.cider.sh](https://marketplace.cider.sh)
 * **FAQ & Troubleshooting:** [taproom.cider.sh/faq](https://taproom.cider.sh/faq)
 * **Official Brand Assets:** [taproom.cider.sh/assets](https://taproom.cider.sh/assets) (includes alternative icons, mascot Saki artwork, and styling templates)
 
