@@ -9,6 +9,7 @@ rename-desktop-file: cider.desktop
 rename-icon: cider
 finish-args:
   - --device=dri
+  - --filesystem=xdg-run/discord-ipc-*
   - --filesystem=xdg-run/app/com.discordapp.Discord:create
   - --own-name=org.mpris.MediaPlayer2.cider
   - --share=ipc
