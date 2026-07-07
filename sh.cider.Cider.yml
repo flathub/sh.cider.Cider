@@ -1,9 +1,9 @@
 app-id: sh.cider.Cider
 runtime: org.freedesktop.Platform
-runtime-version: "25.08"
+runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 base: org.electronjs.Electron2.BaseApp
-base-version: "25.08"
+base-version: '25.08'
 command: cider-wrapper
 rename-desktop-file: cider.desktop
 rename-icon: cider
@@ -51,8 +51,8 @@ modules:
     sources:
       - type: file
         dest-filename: cider.deb
-        url: https://repo.cider.sh/apt/pool/main/cider-v4.0.0-linux-x64.deb
-        sha256: 67907b5506ad4c492db787bb685e441834ee7e0c1f447273099d4b89afda2059
+        url: https://repo.cider.sh/apt/pool/main/cider-v4.0.9-linux-x64.deb
+        sha256: 272584aa51be7cb94cbb6069875e7bd433b9d0b4325dbd707d33958a8f097355
         x-checker-data:
           type: debian-repo
           package-name: cider
