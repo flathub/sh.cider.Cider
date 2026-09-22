@@ -51,8 +51,22 @@ modules:
     sources:
       - type: file
         dest-filename: cider.deb
-        url: https://repo.cider.sh/apt/pool/main/cider-v4.0.16-linux-x64.deb
-        sha256: D4F50AD8692FEEDFF1263985F108FC81899653AA279F1B160A0B11DD9A292532
+        url: https://repo.cider.sh/apt/pool/main/cider-v4.0.17-linux-x64.deb
+        sha256: 09a9e94b4cb27563a418aa7ff12215489ec46af154b3dc41c548262fd0145c95
+        only-arches:
+          - x86_64
+        x-checker-data:
+          type: debian-repo
+          package-name: cider
+          root: https://repo.cider.sh/apt/
+          dist: stable
+          component: main
+      - type: file
+        dest-filename: cider.deb
+        url: https://repo.cider.sh/apt/pool/main/cider-v4.0.17-linux-arm64.deb
+        sha256: 1c0ebc604df3d3cc8583ed4e113a27748e38cac4ff3ca8d19a7b4e6d2fa74dee
+        only-arches:
+          - aarch64
         x-checker-data:
           type: debian-repo
           package-name: cider
